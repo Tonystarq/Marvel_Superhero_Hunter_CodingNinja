@@ -1,7 +1,8 @@
 # Marvel-Superhero-hunter
 
-<b>Live Web URL : https://tonystarq.github.io/Marvel_Superhero_Hunter_CodingNinja/</b>
-<b>For any doubt/help :https://www.linkedin.com/in/manish-yadav-b325667a/</b>
+<li><b>Live Web URL : https://tonystarq.github.io/Marvel_Superhero_Hunter_CodingNinja/</b></li>
+<br>
+</li><b>For any doubt/help :https://www.linkedin.com/in/manish-yadav-b325667a/</b></li>
 
 # Problem Statement
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
