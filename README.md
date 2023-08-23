@@ -1,7 +1,7 @@
 # Marvel-Superhero-hunter
 
 <b>Live Web URL : https://tonystarq.github.io/Marvel_Superhero_Hunter_CodingNinja/</b>
-
+<b>For any doubt/help :https://www.linkedin.com/in/manish-yadav-b325667a/</b>
 
 # Problem Statement
 Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or frameworks are allowed for Javascript (you can use any CSS framework like Bootstrap).
@@ -25,15 +25,24 @@ Create a superhero hunter app. Use ONLY vanilla javascript, no libraries or fram
 [ API example https://gateway.marvel.com:443/v1/public/characters?ts=<time-stamp>&apikey=<public-key>&hash=<md5(ts+privateKey+publicKey)>]
 <li>Each search result of the superhero should have a favorite button, clicking on which superhero should be added to “My favorite superheroes” (a list).</li>
 <li>On clicking any particular search result (any superhero), open a new page with more information about that superhero (Superhero page).</li>
-
+<br>
+<br>
 <b>Superhero Page</b>
 <br>
 <li>Should show a lot of information about the superhero like their name, photo, bio and other information provided by the API (comics, events, series, stories, etc).</li>
-
+<br>
+<br>
 <b>My favourite superheroes Page</b>
+<br>
 <li>Display a list of all the favourite superheroes.</li>
 <li>Make this list persistent (should have the same number of superheroes before and after closing the browser).</li>
 <li>Remove from favourites button: Each superhero should have remove from favourites button, clicking on which should remove that superhero from the list.</li>
 
+<strong>Connect With Me @</strong>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/manish-yadav-b325667a/"><img src="https://img.shields.io/badge/-Manish%20Yadav-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:manish.khdl.sy@gmail.com"><img src="https://img.shields.io/badge/-manish.khdl.sy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+</p>
 
